@@ -1,3 +1,4 @@
+
 # Document-Classifier-LSTM
 Recurrent Neural Networks for multilclass, multilabel classification of texts. The models that learn to tag samll texts with 169 different tags from arxiv. 
 
@@ -29,7 +30,7 @@ Pretrained word embeddings can be used. The embeddings can either be GloVe or Wo
 
 ## Requirements
 
-- Python
+- Python 2 
 - NLTK
 - NumPy
 - Pandas
